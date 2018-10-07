@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RiChangLianXi.iml" filepath="$PROJECT_DIR$/RiChangLianXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android6.0demo/android6.0demo.iml" filepath="$PROJECT_DIR$/android6.0demo/android6.0demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android6demo/android6demo.iml" filepath="$PROJECT_DIR$/android6demo/android6demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapmeshdemo2/bitmapmeshdemo2.iml" filepath="$PROJECT_DIR$/bitmapmeshdemo2/bitmapmeshdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/channelmanagerdemo/channelmanagerdemo.iml" filepath="$PROJECT_DIR$/channelmanagerdemo/channelmanagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghuademo/donghuademo.iml" filepath="$PROJECT_DIR$/donghuademo/donghuademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendaodemo/greendaodemo.iml" filepath="$PROJECT_DIR$/greendaodemo/greendaodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guojihuademo/guojihuademo.iml" filepath="$PROJECT_DIR$/guojihuademo/guojihuademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijkplayerdemo/ijkplayerdemo.iml" filepath="$PROJECT_DIR$/ijkplayerdemo/ijkplayerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemtouchhelperdemo/itemtouchhelperdemo.iml" filepath="$PROJECT_DIR$/itemtouchhelperdemo/itemtouchhelperdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicservicedemo/musicservicedemo.iml" filepath="$PROJECT_DIR$/musicservicedemo/musicservicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_playmusic/service_playmusic.iml" filepath="$PROJECT_DIR$/service_playmusic/service_playmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayoutfragmentdemo/tablayoutfragmentdemo.iml" filepath="$PROJECT_DIR$/tablayoutfragmentdemo/tablayoutfragmentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verticalviewpagerdemo/verticalviewpagerdemo.iml" filepath="$PROJECT_DIR$/verticalviewpagerdemo/verticalviewpagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoplaydemo/videoplaydemo.iml" filepath="$PROJECT_DIR$/videoplaydemo/videoplaydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewdemo/webviewdemo.iml" filepath="$PROJECT_DIR$/webviewdemo/webviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yaoyiyaomodel/yaoyiyaomodel.iml" filepath="$PROJECT_DIR$/yaoyiyaomodel/yaoyiyaomodel.iml" />
+    </modules>
+  </component>
+</project>

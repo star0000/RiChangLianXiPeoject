@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android6.0demo" />
+            <option value="$PROJECT_DIR$/android6demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bitmapmeshdemo2" />
+            <option value="$PROJECT_DIR$/channelmanagerdemo" />
+            <option value="$PROJECT_DIR$/donghuademo" />
+            <option value="$PROJECT_DIR$/greendaodemo" />
+            <option value="$PROJECT_DIR$/guojihuademo" />
+            <option value="$PROJECT_DIR$/ijkplayerdemo" />
+            <option value="$PROJECT_DIR$/itemtouchhelperdemo" />
+            <option value="$PROJECT_DIR$/musicservicedemo" />
+            <option value="$PROJECT_DIR$/service_playmusic" />
+            <option value="$PROJECT_DIR$/tablayoutfragmentdemo" />
+            <option value="$PROJECT_DIR$/verticalviewpagerdemo" />
+            <option value="$PROJECT_DIR$/videoplaydemo" />
+            <option value="$PROJECT_DIR$/webviewdemo" />
+            <option value="$PROJECT_DIR$/yaoyiyaomodel" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
